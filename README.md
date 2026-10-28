@@ -25,6 +25,6 @@
 
 Workflow находится в `.github/workflows/pages.yml`. Чтобы опубликовать сайт, откройте **Settings → Pages**, выберите **GitHub Actions** в разделе **Build and deployment → Source**, затем запустите workflow `Deploy prototype to GitHub Pages` во вкладке **Actions**.
 
-После успешного запуска адрес будет: https://vyihawk.github.io/xWallet/
+После успешного запуска адрес будет: https://vyihawk.github.io/xWallet/. Последний статус сборки доступен во вкладке Actions.
 
 Все данные покупок, начислений и дат в прототипе демонстрационные. Это не подключено к банковским системам и не проводит реальные платежи.
